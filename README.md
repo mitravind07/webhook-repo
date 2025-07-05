@@ -39,6 +39,4 @@ See `.github/workflows/main.yml` for a basic CI pipeline triggered on push.
 
 ---
 
-## 📂 Repos
-- Action repo: [your-action-repo-link]
-- Webhook repo: [your-webhook-repo-link]
+
